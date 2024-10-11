@@ -4,10 +4,19 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Abrir YouTube</title>
+    <title>Redirigiendo a YouTube</title>
+    <script type="text/javascript">
+        // Intento de redirección a YouTube
+        window.location = "intent://www.youtube.com/live/sFZe_RPnNSo#Intent;package=com.google.android.youtube;scheme=https;end?si=KGFspmfntfFZMgmC";
+
+        // Si la redirección falla, ofrecer el enlace normal
+        setTimeout(function() {
+            window.location = "https://www.youtube.com/live/sFZe_RPnNSo?si=KX-gGV1IG624415h";
+        }, 2000); // Redirigir después de 2 segundos
+    </script>
 </head>
 <body>
-    <a href="https://www.youtube.com/live/sFZe_RPnNSo?si=KX-gGV1IG624415h">Abrir en YouTube</a>
-    <p>Haz clic en el enlace para abrir el video en la app de YouTube.</p>
+    <p>Redirigiendo a YouTube...</p>
+    <p>Si no eres redirigido, <a href="https://www.youtube.com/live/sFZe_RPnNSo?si=KX-gGV1IG624415h">haz clic aquí</a>.</p>
 </body>
 </html>
