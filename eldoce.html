@@ -3,30 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Video Fullscreen</title>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            overflow: hidden; /* Evita el scroll */
+    <title>Controlar Calidad de YouTube</title>
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script>
+        let player;
+
+        function onYouTubeIframeAPIReady() {
+            player = new YT.Player('video', {
+                videoId: 'sFZe_RPnNSo', // ID del video
+                playerVars: {
+                    autoplay: 1,
+                    mute: 1,
+                    rel: 0,
+                    modestbranding: 1
+                },
+                events: {
+                    onReady: onPlayerReady
+                }
+            });
         }
-        iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            border: none;
+
+        function onPlayerReady(event) {
+            // Ajustar calidad a 360p
+            player.setPlaybackQuality('small'); // Opciones: 'small', 'medium', 'large', 'hd720', 'hd1080'
         }
-    </style>
+    </script>
 </head>
 <body>
-    <iframe 
-        src="https://www.youtube.com/embed/sFZe_RPnNSo?si=QUQgy7fPuGM4QGGM&autoplay=1&mute=1"
-        title="YouTube video player"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin" 
-        allowfullscreen>
-    </iframe>
+    <div id="video"></div>
 </body>
 </html>
