@@ -5,3 +5,5 @@ https://www.youtube.com/watch?v=sFZe_RPnNSo
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1, Canal 3 - El 10
 https://www.youtube.com/watch?v=xBnt4k_wUj8&ab_channel=Canal10C%C3%B3rdoba
+#EXTINF:-1, Canal 4 - Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
