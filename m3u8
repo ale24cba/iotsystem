@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1,AR | El Doce Cordoba 1
-http://liketv.xyz:80/alerua5897/24681012/8507.m3u8
-#EXTINF:-1,AR | El Doce Cordoba 2
+
+#EXTINF:-1, Canal 1 - El Doce 1
 http://liketv.xyz:80/alerua5897/24681012/213858.m3u8
 #EXTINF:-1, Canal 2 - El Doce 2
 https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
-#EXTINF:-1, Canal 3 - El Trece
+#EXTINF:-1, Canal 3 - El Doce 3
+http://liketv.xyz:80/alerua5897/24681012/8507.m3u8
+
+#EXTINF:-1, Canal 4 - El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1, Canal 5 - Telefe
