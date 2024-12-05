@@ -12,9 +12,12 @@ http://liketv.xyz:80/alerua5897/24681012/8507.m3u8
 #EXTINF:-1, Canal 4 - El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1, Canal 5 - Telefe
+#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", Telefe Cordoba
+https://5f700d5b2c46f.streamlock.net:443/iotsystem/iotsystem/playlist.m3u8
+
+#EXTINF:-1, Canal 6 - Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 
-#EXTINF:-1, Canal 6 - La Nacion +
+#EXTINF:-1, Canal 7 - La Nacion +
 http://liketv.xyz:80/alerua5897/24681012/91.m3u8
 
