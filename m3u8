@@ -1,25 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="canal1" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", El Doce 1
-http://liketv.xyz:80/alerua5897/24681012/213858.m3u8
+https://redireccionareldocecba.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="canal2" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", El Doce 2
-https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
-
-#EXTINF:-1 tvg-id="canal3" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", El Doce 3
-http://liketv.xyz:80/alerua5897/24681012/8507.m3u8
-
-#EXTINF:-1 tvg-id="canal4" tvg-logo="https://i.ibb.co/3zk2N9P/Isotipo-eltrece-2016.png", El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", Telefe Cordoba
+#EXTINF:-1 tvg-id="canal2" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", Telefe Cordoba
 https://redirecionartelefecba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="canal6" tvg-logo="https://i.ibb.co/B3GXWs7/telefe-buenos-aires.jpg", Telefe Buenos Aires
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+https://redirecionarcanal10cba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="canal7" tvg-logo="https://i.ibb.co/8D5DYxm/la-nacion.png", La Nacion+
-http://liketv.xyz:80/alerua5897/24681012/91.m3u8
+https://redirecionarshowsportcba.ale24cba.workers.dev/
 
 
 
