@@ -13,7 +13,7 @@ http://liketv.xyz:80/alerua5897/24681012/8507.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="canal5" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", Telefe Cordoba
-https://5f700d5b2c46f.streamlock.net:443/iotsystem/iotsystem/playlist.m3u8
+https://redirecionartelefecba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="canal6" tvg-logo="https://i.ibb.co/B3GXWs7/telefe-buenos-aires.jpg", Telefe Buenos Aires
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
