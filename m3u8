@@ -6,10 +6,10 @@ https://redireccionareldocecba.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="canal2" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", Telefe Cordoba
 https://redirecionartelefecba.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="canal6" tvg-logo="https://i.ibb.co/B3GXWs7/telefe-buenos-aires.jpg", Telefe Buenos Aires
+#EXTINF:-1 tvg-id="canal6" tvg-logo="https://i.ibb.co/FHwr9jb/canal-10.jpg", Canal 10
 https://redirecionarcanal10cba.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="canal7" tvg-logo="https://i.ibb.co/8D5DYxm/la-nacion.png", La Nacion+
+#EXTINF:-1 tvg-id="canal7" tvg-logo="https://i.ibb.co/Lxchtt4/showsport.jpg", Showsport
 https://redirecionarshowsportcba.ale24cba.workers.dev/
 
 
