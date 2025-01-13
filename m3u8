@@ -9,8 +9,14 @@ https://redirecionartelefecba.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="canal6" tvg-logo="https://i.ibb.co/FHwr9jb/canal-10.jpg", Canal 10
 https://redirecionarcanal10cba.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="canal7" tvg-logo="https://i.ibb.co/Lxchtt4/showsport.jpg", Showsport
+#EXTINF:-1 tvg-id="canal7" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", Showsport
 https://redirecionarshowsportcba.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="canal8" tvg-logo="https://i.ibb.co/RYF1yMK/CANAL-C.png", Canal C
+https://redireccionarcanalccba.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="canal8" tvg-logo="https://i.ibb.co/wB32Phz/canal-13-rio-cuarto.png", Canal 13 Rio Cuarto
+https://redireccionarcanal13riocuarto.ale24cba.workers.dev/
 
 
 
