@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="canal1" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", El Doce 1
+#EXTINF:-1 tvg-id="canal1" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", El Doce 
 https://redireccionareldocecba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", Telefe Cordoba
@@ -18,11 +18,14 @@ https://redireccionarcanalccba.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/wB32Phz/canal-13-rio-cuarto.png", Canal 13 Rio Cuarto
 https://redireccionarcanal13riocuarto.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", Canal 13
+#EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", El Trece
 https://direccionareltrece.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana8" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", Canal Telefe
+#EXTINF:-1 tvg-id="cana8" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", Telefe Buenos Aires
 https://redireccionartelefeaires.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana9" tvg-logo="https://i.ibb.co/h1rRs2YM/a24.jpg", A24
+https://redireccionara24.ale24cba.workers.dev/
 
 
 
