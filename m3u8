@@ -15,22 +15,19 @@ https://redirecionarshowsportcba.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana5" tvg-logo="https://i.ibb.co/RYF1yMK/CANAL-C.png", Canal C
 https://redireccionarcanalccba.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/wB32Phz/canal-13-rio-cuarto.png", Canal 13 Rio Cuarto
-https://redireccionarcanal13riocuarto.ale24cba.workers.dev/
-
-#EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", El Trece
+#EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", El Trece
 https://direccionareltrece.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana8" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", Telefe Buenos Aires
+#EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", Telefe Buenos Aires
 https://redireccionartelefeaires.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana9" tvg-logo="https://i.ibb.co/h1rRs2YM/a24.jpg", A24
+#EXTINF:-1 tvg-id="cana8" tvg-logo="https://i.ibb.co/h1rRs2YM/a24.jpg", A24
 https://redireccionara24.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana10" tvg-logo="https://i.ibb.co/hFvtLYqL/c5n.png", C5N
+#EXTINF:-1 tvg-id="cana9" tvg-logo="https://i.ibb.co/hFvtLYqL/c5n.png", C5N
 https://redireccionarc5n.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="canal12" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", El Doce Youtube 
+#EXTINF:-1 tvg-id="canal10" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", El Doce Youtube 
 https://redireccionareldoceyout.ale24cba.workers.dev/
 
 
