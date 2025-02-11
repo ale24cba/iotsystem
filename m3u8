@@ -12,24 +12,22 @@ https://redirecionarcanal10cba.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana4" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", Showsport
 https://redirecionarshowsportcba.ale24cba.workers.dev/
 
-
-#EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", El Trece
+#EXTINF:-1 tvg-id="cana5" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", El Trece
 https://direccionareltrece.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", Telefe Buenos Aires
+#EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", Telefe Buenos Aires
+https://redireccionartelefeaires.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
+#EXTINF:-1 tvg-id="cana7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-
-
-https://redireccionartelefeaires.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana8" tvg-logo="https://i.ibb.co/WWNW2RZD/IP-NOTICIAS.png", IP NOTICIAS
 https://redireccionaripnoticias.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana9" tvg-logo="https://i.ibb.co/h1rRs2YM/a24.jpg", A24
-https://redireccionara24.ale24cba.workers.dev/
+#EXTINF:-1 tvg-id="canal9" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News" user-agent="iPhone",A24 (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
 #EXTINF:-1 tvg-id="cana10" tvg-logo="https://i.ibb.co/hFvtLYqL/c5n.png", C5N
 https://redireccionarc5n.ale24cba.workers.dev/
