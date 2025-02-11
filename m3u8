@@ -12,13 +12,17 @@ https://redirecionarcanal10cba.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana4" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", Showsport
 https://redirecionarshowsportcba.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana5" tvg-logo="https://i.ibb.co/RYF1yMK/CANAL-C.png", Canal C
-https://redireccionarcanalccba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", El Trece
 https://direccionareltrece.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", Telefe Buenos Aires
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+
 https://redireccionartelefeaires.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana8" tvg-logo="https://i.ibb.co/WWNW2RZD/IP-NOTICIAS.png", IP NOTICIAS
