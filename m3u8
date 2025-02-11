@@ -21,6 +21,9 @@ https://direccionareltrece.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", Telefe Buenos Aires
 https://redireccionartelefeaires.ale24cba.workers.dev/
 
+#EXTINF:-1 tvg-id="cana9" tvg-logo="https://i.ibb.co/WWNW2RZD/IP-NOTICIAS.png", IP NOTICIAS
+https://redireccionaripnoticias.ale24cba.workers.dev/
+
 #EXTINF:-1 tvg-id="cana8" tvg-logo="https://i.ibb.co/h1rRs2YM/a24.jpg", A24
 https://redireccionara24.ale24cba.workers.dev/
 
