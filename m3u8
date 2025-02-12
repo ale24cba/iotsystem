@@ -21,14 +21,14 @@ https://direccionareltrece.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", Telefe Buenos Aires
 https://redireccionartelefeaires.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV
+#EXTINF:-1 tvg-id="cana8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"user-agent="iPhone",América TV
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
 #EXTINF:-1 tvg-id="cana9" tvg-logo="https://i.ibb.co/WWNW2RZD/IP-NOTICIAS.png", IP NOTICIAS
 https://redireccionaripnoticias.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana10" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News" user-agent="iPhone",A24
+#EXTINF:-1 tvg-id="cana10" tvg-logo="https://i.imgur.com/LnXQkIU.png"user-agent="iPhone",A24
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
