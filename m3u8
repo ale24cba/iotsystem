@@ -35,6 +35,8 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1 tvg-id="cana11" tvg-logo="https://i.ibb.co/hFvtLYqL/c5n.png", C5N
 https://redireccionarc5n.ale24cba.workers.dev/
 
+#EXTINF:-1 tvg-id="cana12" tvg-logo="https://i.ibb.co/Xx61tpFV/tn.png", TN
+https://redirecionartn.ale24cba.workers.dev/
 
 
 
