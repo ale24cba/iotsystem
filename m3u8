@@ -5,7 +5,7 @@ https://redirecionarcanal10cba.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana3" tvg-logo="https://i.ibb.co/qMxgFWRR/Metro.jpg", Metro
 https://dsr.ride.com.ar/tvmia/an43/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cana4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"user-agent="iPhone",América TV
+#EXTINF:-1 tvg-id="cana4" tvg-logo="https://i.ibb.co/LdcV69jg/Am-rica-TV-Nuevo-logo-Junio-2020.jpg"user-agent="iPhone",América TV
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
@@ -30,10 +30,10 @@ https://direccionareltrece.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana11" tvg-logo="https://i.ibb.co/bjQNRCXx/Canal-9-2015.jpg", El Nueve
 https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cana12" tvg-logo="https://i.ibb.co/Xx61tpFV/tn.png", TN
+#EXTINF:-1 tvg-id="cana12" tvg-logo="https://i.ibb.co/qM0s1qDT/tn.jpg", TN
 https://redirecionartn.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana13" tvg-logo="https://i.imgur.com/LnXQkIU.png"user-agent="iPhone",A24
+#EXTINF:-1 tvg-id="cana13" tvg-logo="https://i.ibb.co/3ybDW1c4/a24-1.jpg"user-agent="iPhone",A24
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
