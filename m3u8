@@ -77,9 +77,19 @@ https://dsr.ride.com.ar/tvmia/an24/playlist.m3u8
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/Nd3CQTDY/fox3.jpg", Fox 3
 http://190.123.90.146:8000/play/a00i/index.m3u8
 
-
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/Gv50PGxG/large.jpg", Garage
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81738.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/6JHrjmjn/2560px-2014-Disney-Channel-logo.jpg", Disney Channel
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1595658.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/WNdtGn95/nick.jpg", Nick
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1114599.ts
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", Showsport
 https://redirecionarshowsportcba.ale24cba.workers.dev/
