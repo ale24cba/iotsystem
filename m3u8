@@ -68,17 +68,17 @@ http://matrivagoweb.xyz:2095/live/61093343/123456/52748.ts
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/cKGr2x6c/download-1.jpg", Espn 3
 https://dsr.ride.com.ar/tvmia/an26/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cana18" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JMkv2N86Lesbb3bbqyxAW4OgleFDwpcZrtJCn2ITNC3gLRlckpx-3G6DBLCt9BwU4W800CXTC11xLw0dzxuZ1vI.png", Fox
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/MDzRmW6J/FOX-Sports-logo-svg.jpg", Fox
 https://dsr.ride.com.ar/tvmia/an23/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.postimg.cc/43RW3c0y/Fox-Sports-2-Argentina-2023.png", Fox 2
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/JRP9j9Y2/fox2.jpg", Fox 2
 https://dsr.ride.com.ar/tvmia/an24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cana18" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj6n1qpLtAYjNtweQyGL5AbeF71DvOIqNp86YSuHKbgCPVv0vUxEBGESAejO3iR_5jdbZvRmVxikW9JHXNI1J03GSq1pNS5L77wbrOhtMWG3v4FqLTMF5mRwqlGcry61lY.png", Fox 3
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/Nd3CQTDY/fox3.jpg", Fox 3
 http://190.123.90.146:8000/play/a00i/index.m3u8
 
 
-#EXTINF:-1 tvg-id="cana18" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JG9oKnEDmV0wstRmGLyG7dZsw5ogSkLvm1V0mi0b7svK.png", Garage
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/Gv50PGxG/large.jpg", Garage
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81738.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", Showsport
