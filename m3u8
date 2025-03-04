@@ -27,7 +27,7 @@ https://redireccionareldoceyout.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana10" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", El Trece
 https://direccionareltrece.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Logoelnuevecanalnueve2018.png/revision/latest/scale-to-width-down/250?cb=20210526032604&path-prefix=es", El Nueve
+#EXTINF:-1 tvg-id="cana11" tvg-logo="https://i.ibb.co/bjQNRCXx/Canal-9-2015.jpg", El Nueve
 https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana12" tvg-logo="https://i.ibb.co/Xx61tpFV/tn.png", TN
@@ -43,7 +43,7 @@ https://redireccionarc5n.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana15" tvg-logo="https://i.ibb.co/LGZqgxB/CRONICA-TV.png", CRONICA TV
 https://dsr.ride.com.ar/tvmia/an10/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cana16" tvg-logo="https://play-lh.googleusercontent.com/_oVjM-rIdVqB6XsjuoGDoFAIgy-lxmuSvKDs_9foMCsTfv3wh9l0hzKwP-rLLDt4qzc=w600-h300-pc0xffffff-pd", Canal 26
+#EXTINF:-1 tvg-id="cana16" tvg-logo="https://i.ibb.co/RkW5cMrW/canal-26.jpg", Canal 26
 https://dsr.ride.com.ar/tvmia/an15/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana17" tvg-logo="https://i.ibb.co/2Yp5ChV4/la-nacion.png", LN
@@ -56,7 +56,7 @@ https://redireccionaripnoticias.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/5g2Rgpck/Ciudadmagazine-logonuevo.jpg", Cuidad Magazine
 https://dsr.ride.com.ar/tvmia/an12/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cana20" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjuzcgb9yyY_j7AIaOGW4uGntHlzjDBdXhNXzn1_Q0BpVxNmHZkYTGup1uCwLj-oZVvO9SQLG5aWn4irUa7P7T8g.png", Tyc Sport
+#EXTINF:-1 tvg-id="cana20" tvg-logo="https://i.ibb.co/dwsrpSW4/tyc-sports9267.jpg", Tyc Sport
 http://186.148.196.82:8001/play/a00n
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="s:1:/images/Hb_9J5o5ThzsyB8zlFEM_2zI1QFTiA5XqZrf4XNOSaXDxtI-aGVBvfUkuaVI9W7m.png", Espn 
