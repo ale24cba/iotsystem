@@ -1,49 +1,65 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="canal1" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", El Doce 
-https://redireccionareldocecba.ale24cba.workers.dev/
-
-#EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", El Doce Youtube 
-https://redireccionareldoceyout.ale24cba.workers.dev/
-
-#EXTINF:-1 tvg-id="cana3" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", Telefe Cordoba
-https://redirecionartelefecba.ale24cba.workers.dev/
-
-#EXTINF:-1 tvg-id="cana4" tvg-logo="https://i.ibb.co/FHwr9jb/canal-10.jpg", Canal 10
+#EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/FHwr9jb/canal-10.jpg", Canal 10
 https://redirecionarcanal10cba.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana5" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", Showsport
-https://redirecionarshowsportcba.ale24cba.workers.dev/
+#EXTINF:-1 tvg-id="cana3" tvg-logo="https://i.ibb.co/qMxgFWRR/Metro.jpg", Metro
+https://dsr.ride.com.ar/tvmia/an43/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", El Trece
-https://direccionareltrece.ale24cba.workers.dev/
-
-#EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", Telefe Buenos Aires
-https://redireccionartelefeaires.ale24cba.workers.dev/
-
-#EXTINF:-1 tvg-id="cana8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"user-agent="iPhone",América TV
+#EXTINF:-1 tvg-id="cana4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"user-agent="iPhone",América TV
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
-#EXTINF:-1 tvg-id="cana9" tvg-logo="https://i.ibb.co/WWNW2RZD/IP-NOTICIAS.png", IP NOTICIAS
-https://redireccionaripnoticias.ale24cba.workers.dev/
+#EXTINF:-1 tvg-id="cana5" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", Telefe Cordoba
+https://redirecionartelefecba.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana10" tvg-logo="https://i.imgur.com/LnXQkIU.png"user-agent="iPhone",A24
-#EXTVLCOPT:http-user-agent=iPhone
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", Telefe Buenos Aires
+https://redireccionartelefeaires.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana11" tvg-logo="https://i.ibb.co/hFvtLYqL/c5n.png", C5N
-https://redireccionarc5n.ale24cba.workers.dev/
+#EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.imgur.com/XGrkzN3.png", Tv Publica
+https://dsr.ride.com.ar/tvmia/an04/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal8" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", El Doce 
+https://redireccionareldocecba.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana9" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", El Doce Youtube 
+https://redireccionareldoceyout.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana10" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", El Trece
+https://direccionareltrece.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Logoelnuevecanalnueve2018.png/revision/latest/scale-to-width-down/250?cb=20210526032604&path-prefix=es", El Nueve
+https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana12" tvg-logo="https://i.ibb.co/Xx61tpFV/tn.png", TN
 https://redirecionartn.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana13" tvg-logo="https://i.ibb.co/2Yp5ChV4/la-nacion.png", LN
+#EXTINF:-1 tvg-id="cana13" tvg-logo="https://i.imgur.com/LnXQkIU.png"user-agent="iPhone",A24
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+#EXTINF:-1 tvg-id="cana14" tvg-logo="https://i.ibb.co/hFvtLYqL/c5n.png", C5N
+https://redireccionarc5n.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana15" tvg-logo="https://i.ibb.co/LGZqgxB/CRONICA-TV.png", CRONICA TV
+https://dsr.ride.com.ar/tvmia/an10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana16" tvg-logo="https://play-lh.googleusercontent.com/_oVjM-rIdVqB6XsjuoGDoFAIgy-lxmuSvKDs_9foMCsTfv3wh9l0hzKwP-rLLDt4qzc=w600-h300-pc0xffffff-pd", Canal 26
+https://dsr.ride.com.ar/tvmia/an15/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana17" tvg-logo="https://i.ibb.co/2Yp5ChV4/la-nacion.png", LN
 https://dsr.ride.com.ar/tvmia/an14/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="cana14" tvg-logo="https://i.ibb.co/LGZqgxB/CRONICA-TV.png", CRONICA TV
-https://dsr.ride.com.ar/tvmia/an10/playlist.m3u8
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/WWNW2RZD/IP-NOTICIAS.png", IP NOTICIAS
+https://redireccionaripnoticias.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", Showsport
+https://redirecionarshowsportcba.ale24cba.workers.dev/
+
+
+
+
+
 
 
 
