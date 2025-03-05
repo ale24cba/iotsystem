@@ -139,14 +139,17 @@ http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1202206.ts
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/4wY8VT8T/WARNER.jpg", WARNER CHANNEL
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165063.ts
 
-#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/VK5rRqG/Universal-TV-Logo-2018.jpg", UNIVERSAL TV 720
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/VK5rRqG/Universal-TV-Logo-2018.jpg", UNIVERSAL TV 
 http://181.78.21.162:9080/play/a054/index.m3u8
 
-#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/VK5rRqG/Universal-TV-Logo-2018.jpg", UNIVERSAL TV
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/VK5rRqG/Universal-TV-Logo-2018.jpg", UNIVERSAL TV xtreamui
 http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/235.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/spN9NFnn/STUDIO-UNIVERSAL.jpg", STUDIO UNIVERSAL
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81951.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/spN9NFnn/STUDIO-UNIVERSAL.jpg", STUDIO UNIVERSAL xtreamui
+http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/302.ts
 
 
 
