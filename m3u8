@@ -169,6 +169,9 @@ http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81768.ts
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/qFPZVq1h/CINE-LATINO.jpg", CINE LATINO
 http://181.119.86.68:8000/play/b057/index.m3u8
 
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/W47ZVWcw/DISNEY.jpg", DISNEY PLUS
+disneyplus.ale24cba.workers.dev
+
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", SHOWSPORT
 https://redirecionarshowsportcba.ale24cba.workers.dev/
 
