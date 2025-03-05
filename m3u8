@@ -115,7 +115,7 @@ https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/kV1Wzc4x/HBO-logo.jpg", HBO
 http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/325.ts
 
-#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/gZd1hXPM/CINECAL.jpg", CINECAL
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/gZd1hXPM/CINECAL.jpg", CINECANAL
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/23546.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/B2ZcJnrb/Logo-TNT-Series.jpg", TNT
