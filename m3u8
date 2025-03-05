@@ -59,7 +59,7 @@ https://dsr.ride.com.ar/tvmia/an12/playlist.m3u8
 #EXTINF:-1 tvg-id="cana20" tvg-logo="https://i.ibb.co/dwsrpSW4/tyc-sports9267.jpg", Tyc Sport
 http://186.148.196.82:8001/play/a00n
 
-#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/4D6Y3Ck/i.jpg", Espn 
+#EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/4D6Y3Ck/i.jpg", Espn 
 https://dsr.ride.com.ar/tvmia/an21/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/67R80xzh/espn24510.jpg", Espn 2
@@ -81,10 +81,26 @@ http://190.123.90.146:8000/play/a00i/index.m3u8
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81738.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/6JHrjmjn/2560px-2014-Disney-Channel-logo.jpg", Disney Channel
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1595658.ts
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1403565.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/WNdtGn95/nick.jpg", Nick
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1114599.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Mk9QqMrP/Cartoonito.jpg", Cartoonito
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81890.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Ndfx6hhZ/discovery-kits.jpg", Discovery Kids
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1310654.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/HpHTLQLR/Disney-Junior-Logo-2020.jpg", Disney Junior
+http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/224675.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0pYTJtQz/Pakapaka-logotipo-2010-2016.jpg", Paka Paka
+https://dsr.ride.com.ar/tvmia/an03/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/C3bjF19n/Cartoon-Network-2010-logo.jpg", Cartoon Network
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81892.ts
+
 
 
 
