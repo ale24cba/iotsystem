@@ -163,6 +163,9 @@ http://38.52.209.82:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dNPtLjq/ID.jpg", ID
 http://moontools.me:8080/live/B.O.S.S_I.P/WycFeigyEn/23471.ts
 
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dNPtLjq/ID.jpg", ID 2
+http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/188.ts
+
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Cpxhr7b0/Comedy-Central-2018.jpg", COMEDY CENTRAL
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81768.ts
 
@@ -174,6 +177,9 @@ http://matrivagoweb.xyz:2095/live/61093343peli/123456/12338.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/W47ZVWcw/DISNEY.jpg", DISNEY PLUS
 http://181.176.155.7:8090/play/a0rs/index.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/W47ZVWcw/DISNEY.jpg", DISNEY PLUS cloudflare
+https://disneyplus.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", SHOWSPORT
 https://redirecionarshowsportcba.ale24cba.workers.dev/
