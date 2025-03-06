@@ -92,7 +92,7 @@ http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81890.ts
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1310654.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/HpHTLQLR/Disney-Junior-Logo-2020.jpg", DISNEY JUNIOR
-http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/224675.ts
+http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/167.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0pYTJtQz/Pakapaka-logotipo-2010-2016.jpg", PAKA PAKA
 https://dsr.ride.com.ar/tvmia/an03/playlist.m3u8
@@ -166,11 +166,16 @@ http://moontools.me:8080/live/B.O.S.S_I.P/WycFeigyEn/23471.ts
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Cpxhr7b0/Comedy-Central-2018.jpg", COMEDY CENTRAL
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81768.ts
 
-#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/qFPZVq1h/CINE-LATINO.jpg", CINE LATINO
-http://181.119.86.68:8000/play/b057/index.m3u8
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/qFPZVq1h/CINE-LATINO.jpg", CINE LATINO 1
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/18914.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/qFPZVq1h/CINE-LATINO.jpg", CINE LATINO 2
+http://matrivagoweb.xyz:2095/live/61093343peli/123456/12338.ts
+
+
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/W47ZVWcw/DISNEY.jpg", DISNEY PLUS
-https://sae11.playlist.ttvnw.net/v1/playlist/CokGR9tBr4pGMPCh0u3bAT2kASDyIy9Gz5733uRh2mnVB-xLOqsi5qMFMmLYWP8i25nB9mY08tedb0jR-m46aK1d5--tH6jtaIDA4zbOWDUDcGC46QkDCEjfUVn8tVtF4pnByK0_XNwsgZA8NYCVBbMdyshOJo0wt5MkNQscVySdNe91NoVh2SMcxVakAeh38xpppminwc1WybQwew-G2yNXfOOpFrFVp8CShbbF_A8fBQrEZwsXMZE5dekY4aBTHubS3-LJCmYCV_ftWZkxgPznMVw2M0TuIHP8rhYI7v-kVZyLUeyfz7vHzyiDKXV6eaLlxmXSDmvGbJ7ZGbEI_8or4J4Yr5ryqkg0ZCV2mibRbJKSpIMWOzp5lwzZgSqp9aIR65fgr1GeXjHzJSeIu56QgYgTCkrinJERL2uVEnDBP1hrUBtCPZqrxKNUhAt2xkn2Y9988JH37QBke4rRMQhl29JsM7XPh6rER24jLeFHOoqkmn-vcHjLYY1MaKPPRZ2Eu5Fwb5oSc3caIDxzZNSDr1ySDYR9QfJqPALpfnc35gDPUX7ZDCHJN_aneHhMTi45HKLMz0xYQNTF8igZWwu-PHEXD1SiSm7y9MVXg7o6uFEvfGd65dDHQZmjoPG7tFUhr5ky5yv-zTPJXUyabI-3-5Obpt43aIThzVU7YUqjmNVRXlKHPLcxDZZqnqja76qeDiKDU2_-sbywubZyC_6jlBEXjB8sQ2lD4jZAmhGWoPxf6dLwTk-aE0UbNFxjFA1xL_giDmwcqiL_QS5Jw2-3gYCItPuru38MK2T7e5v9-iU6tRjbeirLepv_IvASylOFpgC0NZG71vYVG-Jer8dgkOH5TWj3TyXltdoE1iO768SCa622NI-dgch7t-zvtvaWmdbLT4LSINAceH1Cnmw3_4n6_S_5L_9j5MyqXlfiWWV5V0T8I_KXiGTqHirxpLVYs1tlXArtyKMo_vkze9m4YsJJ8JsoilfNSBMvDgteyxN6GVq02sSZpmundfE94GJ9ydvzVSnCL-FdGgx5fb0VA5Lnb8tGs4EgASoJdXMtZWFzdC0yMNwL.m3u8
+https://dsr.ride.com.ar/tvmia/an21/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", SHOWSPORT
 https://redirecionarshowsportcba.ale24cba.workers.dev/
