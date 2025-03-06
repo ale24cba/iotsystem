@@ -172,10 +172,8 @@ http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/18914.ts
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/qFPZVq1h/CINE-LATINO.jpg", CINE LATINO 2
 http://matrivagoweb.xyz:2095/live/61093343peli/123456/12338.ts
 
-
-
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/W47ZVWcw/DISNEY.jpg", DISNEY PLUS
-https://dsr.ride.com.ar/tvmia/an21/playlist.m3u8
+http://181.176.155.7:8090/play/a0rs/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", SHOWSPORT
 https://redirecionarshowsportcba.ale24cba.workers.dev/
