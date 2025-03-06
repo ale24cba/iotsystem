@@ -124,9 +124,6 @@ http://181.13.173.86:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/tTvj96fF/TNT-Series-Logo-2016.jpg", TNT SERIES
 http://181.13.173.86:8000/play/a07e/index.m3u8
 
-#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/tTvj96fF/TNT-Series-Logo-2016.jpg", TNT SERIES
-http://181.13.173.86:8000/play/a07e/index.m3u8
-
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/8J0h96c/FX.jpg", FX
 http://179.49.163.34:45000/play/a00s/index.m3u8
 
@@ -155,7 +152,7 @@ http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1310658.ts
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1492459.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/9mbYccBP/1200px-TCM-Latam-logo.jpg", TCM
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1114482.ts
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81856.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/S4w6S364/Amc-logo-2013.jpg", AMC
 http://38.52.209.82:8000/play/a01y/index.m3u8
