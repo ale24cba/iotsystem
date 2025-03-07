@@ -169,7 +169,7 @@ http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81768.ts
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/qFPZVq1h/CINE-LATINO.jpg", CINE LATINO 
 http://matrivagoweb.xyz:2095/live/61093343peli/123456/12338.ts
 
-#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/qFPZVq1h/CINE-LATINO.jpg", EL GOURMET
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/C52gJbJb/Elgourmetlogo2015.jpg", EL GOURMET
 http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/260.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/nMdVZnwg/Tru-TV-logo-2014.jpg", TruTV
@@ -182,10 +182,28 @@ http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/187.ts
 https://dsr.ride.com.ar/tvmia/an13/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/3YGqX45y/national-geographic.jpg", National Geographic
+http://moontools.me:8080/live/B.O.S.S_I.P/WycFeigyEn/81633.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/gMFnR0fC/discovery-logo-antes.jpg", DISCOVERY
+http://181.13.173.86:8000/play/a07i/index.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/fzn3QyrJ/2018-Animal-Planet-logo.jpg", ANIMAL PLANET
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81714.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0pnv888q/History-Logo.jpg", HISTORY
+http://200.26.177.54:8000/play/a0el/index.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0pnv888q/History-Logo.jpg", HISTORY 2
+http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/193.ts
 
 
-#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/C52gJbJb/Elgourmetlogo2015.jpg", DISNEY PLUS
-https://disneyplus.ale24cba.workers.dev/
+
+
+
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/8LGqYDjp/DISNEY.jpg", DISNEY PLUS
+#https://disneyplus.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", SHOWSPORT
 https://redirecionarshowsportcba.ale24cba.workers.dev/
