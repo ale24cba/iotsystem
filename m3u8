@@ -5,9 +5,8 @@ https://redirecionarcanal10cba.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana3" tvg-logo="https://i.ibb.co/qMxgFWRR/Metro.jpg", METRO
 https://dsr.ride.com.ar/tvmia/an43/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cana4" tvg-logo="https://i.ibb.co/LdcV69jg/Am-rica-TV-Nuevo-logo-Junio-2020.jpg"user-agent="iPhone", AMERICA TV
-#EXTVLCOPT:http-user-agent=iPhone
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1 tvg-id="cana4" tvg-logo="https://i.ibb.co/LdcV69jg/Am-rica-TV-Nuevo-logo-Junio-2020.jpg", AMERICA TV
+https://dsr.ride.com.ar/tvmia/an25/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana5" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", TELEFE CORDOBA
 https://redirecionartelefecba.ale24cba.workers.dev/
