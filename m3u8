@@ -203,6 +203,12 @@ http://181.209.95.29:8000/play/a0az/index.m3u8
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Gvf9fYD8/Quiero.jpg", Quiero Musica
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1595853.ts
 
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dw6P6T10/mtv.jpgg", MTV
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81675.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/G3V4MNqY/CNN.jpg", CNN
+http://51.222.111.105:25461/live/NtvPlay2025/NtvPlay2025/36.ts
+
 
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/8LGqYDjp/DISNEY.jpg", DISNEY PLUS
