@@ -32,9 +32,8 @@ https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
 #EXTINF:-1 tvg-id="cana12" tvg-logo="https://i.ibb.co/qM0s1qDT/tn.jpg", TN
 https://redirecionartn.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana13" tvg-logo="https://i.ibb.co/3ybDW1c4/a24-1.jpg"user-agent="iPhone",A24
-#EXTVLCOPT:http-user-agent=iPhone
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#EXTINF:-1 tvg-id="cana13" tvg-logo="https://i.ibb.co/3ybDW1c4/a24-1.jpg",A24
+https://dsr.ride.com.ar/tvmia/an37/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana14" tvg-logo="https://i.ibb.co/hFvtLYqL/c5n.png", C5N
 https://redireccionarc5n.ale24cba.workers.dev/
@@ -86,6 +85,9 @@ http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1114599.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Mk9QqMrP/Cartoonito.jpg", CARTOONITO
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81890.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/JjtJKTZn/BABY-TV.jpg", Baby TV
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81652.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Ndfx6hhZ/discovery-kits.jpg", Discovery KIDS
 http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/167.ts
@@ -207,6 +209,24 @@ http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81675.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/G3V4MNqY/CNN.jpg", CNN
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165309.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/d4j9xMpm/TVE.jpg", TVE
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81678.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/7sMv1xZ/RAI.jpg", RAI
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165380.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/bj7XQQWY/2560px-Discovery-Turbo-logo.jpg", DISCOVERY TURBO
+http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/219.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/WvGGvx2b/RURAL.jpg", CANAL RURAL
+http://190.123.90.146:8000/play/a036/index.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/bj533XgS/TELEMUNDO.jpg", TELEMUNDO INTERNACIONAL
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/19490.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0yBgfmgJ/FILMANDARTS.jpg", Film & Arts
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81826.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/8LGqYDjp/DISNEY.jpg", DISNEY PLUS
 #https://disneyplus.ale24cba.workers.dev/
