@@ -127,12 +127,13 @@ http://181.13.173.86:8000/play/a07e/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/8J0h96c/FX.jpg", FX
 http://179.49.163.34:45000/play/a00s/index.m3u8
+#http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/11304.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/7tY8P5DC/STAR.jpg", STAR CHANNEL
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81791.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/r2rRtBGL/Sony-Channel-Logo.jpg", SONY CHANNEL
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1202206.ts
+http://179.49.163.34:45000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/4wY8VT8T/WARNER.jpg", WARNER CHANNEL
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165063.ts
