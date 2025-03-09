@@ -1,0 +1,245 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/FHwr9jb/canal-10.jpg", CANAL 10
+https://redirecionarcanal10cba.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana3" tvg-logo="https://i.ibb.co/qMxgFWRR/Metro.jpg", METRO
+https://dsr.ride.com.ar/tvmia/an43/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana4" tvg-logo="https://i.ibb.co/LdcV69jg/Am-rica-TV-Nuevo-logo-Junio-2020.jpg", AMERICA TV
+https://dsr.ride.com.ar/tvmia/an25/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana5" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", TELEFE CORDOBA
+https://redirecionartelefecba.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", TELEFE BUENOS AIRES
+https://redireccionartelefeaires.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.imgur.com/XGrkzN3.png", TV PUBLICA
+https://dsr.ride.com.ar/tvmia/an04/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal8" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", EL DOCE
+https://redireccionareldocecba.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana9" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", EL DOCE YOUTUBE 
+https://redireccionareldoceyout.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana10" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", EL TRECE
+https://direccionareltrece.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana11" tvg-logo="https://i.ibb.co/bjQNRCXx/Canal-9-2015.jpg", EL NUEVE
+https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana12" tvg-logo="https://i.ibb.co/qM0s1qDT/tn.jpg", TN
+https://redirecionartn.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana13" tvg-logo="https://i.ibb.co/3ybDW1c4/a24-1.jpg",A24
+https://dsr.ride.com.ar/tvmia/an37/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana14" tvg-logo="https://i.ibb.co/hFvtLYqL/c5n.png", C5N
+https://redireccionarc5n.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana15" tvg-logo="https://i.ibb.co/LGZqgxB/CRONICA-TV.png", CRONICA TV
+https://dsr.ride.com.ar/tvmia/an10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana16" tvg-logo="https://i.ibb.co/RkW5cMrW/canal-26.jpg", CANAL 26
+https://dsr.ride.com.ar/tvmia/an15/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana17" tvg-logo="https://i.ibb.co/2Yp5ChV4/la-nacion.png", LN
+https://dsr.ride.com.ar/tvmia/an14/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/WWNW2RZD/IP-NOTICIAS.png", IP NOTICIAS
+https://redireccionaripnoticias.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/5g2Rgpck/Ciudadmagazine-logonuevo.jpg", CIUDAD MAGAZINE
+https://dsr.ride.com.ar/tvmia/an12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana20" tvg-logo="https://i.ibb.co/dwsrpSW4/tyc-sports9267.jpg", TYC SPORT
+https://dsr.ride.com.ar/tvmia/an60/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/4D6Y3Ck/i.jpg", ESPN
+https://dsr.ride.com.ar/tvmia/an21/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/67R80xzh/espn24510.jpg", ESPN 2
+http://matrivagoweb.xyz:2095/live/61093343/123456/52748.ts
+
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/cKGr2x6c/download-1.jpg", ESPN 3
+https://dsr.ride.com.ar/tvmia/an26/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/MDzRmW6J/FOX-Sports-logo-svg.jpg", FOX
+https://dsr.ride.com.ar/tvmia/an23/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/JRP9j9Y2/fox2.jpg", FOX 2
+https://dsr.ride.com.ar/tvmia/an24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/Nd3CQTDY/fox3.jpg", FOX 3
+http://190.123.90.146:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/Gv50PGxG/large.jpg", GARAGE
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81738.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/6JHrjmjn/2560px-2014-Disney-Channel-logo.jpg", DISNEY CHANNEL
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81729.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/WNdtGn95/nick.jpg", NICK
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1114599.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Mk9QqMrP/Cartoonito.jpg", CARTOONITO
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81890.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/JjtJKTZn/BABY-TV.jpg", Baby TV
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81652.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Ndfx6hhZ/discovery-kits.jpg", Discovery KIDS
+http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/167.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/HpHTLQLR/Disney-Junior-Logo-2020.jpg", DISNEY JUNIOR
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1492425.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0pYTJtQz/Pakapaka-logotipo-2010-2016.jpg", PAKA PAKA
+https://dsr.ride.com.ar/tvmia/an03/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/C3bjF19n/Cartoon-Network-2010-logo.jpg", CARTOON NETWORK
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81725.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/FLqGtb2K/Space-Logo.jpg", SPACE
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165384.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/k2Gtt7b8/Cinemax.jpg", CINEMAX
+http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/320.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/35JwbmwL/Paramount-Network.jpg", PARAMOUNT NETWORK
+http://181.176.153.107:8090/play/a0yk/index.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dsX8fsmv/volver.jpg", VOLVER
+https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/kV1Wzc4x/HBO-logo.jpg", HBO
+http://200.26.177.54:8000/play/a09m/index.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/gZd1hXPM/CINECAL.jpg", CINECANAL
+#http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/23546.ts
+http://200.26.177.54:8000/play/a0dt/index.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/B2ZcJnrb/Logo-TNT-Series.jpg", TNT
+http://181.13.173.86:8000/play/a07d/index.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/tTvj96fF/TNT-Series-Logo-2016.jpg", TNT SERIES
+http://181.13.173.86:8000/play/a07e/index.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/8J0h96c/FX.jpg", FX
+http://179.49.163.34:45000/play/a00s/index.m3u8
+#http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/11304.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/7tY8P5DC/STAR.jpg", STAR CHANNEL
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81791.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/r2rRtBGL/Sony-Channel-Logo.jpg", SONY CHANNEL
+http://179.49.163.34:45000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/4wY8VT8T/WARNER.jpg", WARNER CHANNEL
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165063.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/VK5rRqG/Universal-TV-Logo-2018.jpg", UNIVERSAL TV 
+http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/235.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/spN9NFnn/STUDIO-UNIVERSAL.jpg", STUDIO UNIVERSAL
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1310676.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/RG3BQ1Pb/AXN.jpg", AXN
+http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/200.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/ynvCqm9c/AE-logo.jpg", A&E
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1310658.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/h1tnxGK7/TNT-NOVELAS.jpg", TNT NOVELAS
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1492459.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/9mbYccBP/1200px-TCM-Latam-logo.jpg", TCM
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81856.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/S4w6S364/Amc-logo-2013.jpg", AMC
+http://38.52.209.82:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dNPtLjq/ID.jpg", ID 
+http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/188.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dNPtLjq/ID.jpg", ID SD
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81748.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Cpxhr7b0/Comedy-Central-2018.jpg", COMEDY CENTRAL
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81768.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/qFPZVq1h/CINE-LATINO.jpg", CINE LATINO 
+http://matrivagoweb.xyz:2095/live/61093343peli/123456/12338.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/C52gJbJb/Elgourmetlogo2015.jpg", EL GOURMET
+http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/260.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/nMdVZnwg/Tru-TV-logo-2014.jpg", TruTV
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/28621.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/ppx74qK/1200px-Discovery-Home-Health-logo.jpg", Discovery Home & Health 
+http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/187.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/5XLHNRY6/ENCUENTRO.jpg", ENCUENTRO
+https://dsr.ride.com.ar/tvmia/an13/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/3YGqX45y/national-geographic.jpg", National Geographic
+http://moontools.me:8080/live/B.O.S.S_I.P/WycFeigyEn/81633.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/gMFnR0fC/discovery-logo-antes.jpg", DISCOVERY
+http://181.13.173.86:8000/play/a07i/index.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/fzn3QyrJ/2018-Animal-Planet-logo.jpg", ANIMAL PLANET
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81714.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0pnv888q/History-Logo.jpg", HISTORY
+http://200.26.177.54:8000/play/a0el/index.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0pnv888q/History-Logo.jpg", HISTORY 2
+http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/193.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/VGPLXNF/large-1.jpg", E! Entertainment
+http://181.209.95.29:8000/play/a0az/index.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Gvf9fYD8/Quiero.jpg", Quiero Musica
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1595853.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dw6P6T10/mtv.jpgg", MTV
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81675.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/G3V4MNqY/CNN.jpg", CNN
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165309.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/d4j9xMpm/TVE.jpg", TVE
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81678.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/7sMv1xZ/RAI.jpg", RAI
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165380.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/bj7XQQWY/2560px-Discovery-Turbo-logo.jpg", DISCOVERY TURBO
+http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/219.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/WvGGvx2b/RURAL.jpg", CANAL RURAL
+http://190.123.90.146:8000/play/a036/index.m3u8
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/bj533XgS/TELEMUNDO.jpg", TELEMUNDO INTERNACIONAL
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/19490.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0yBgfmgJ/FILMANDARTS.jpg", Film & Arts
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81826.ts
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/8LGqYDjp/DISNEY.jpg", DISNEY PLUS
+https://disneyplus.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", SHOWSPORT
+https://redirecionarshowsportcba.ale24cba.workers.dev/
+
+
+
+
+
+
+
+
