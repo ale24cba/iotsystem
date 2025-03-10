@@ -230,9 +230,6 @@ http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/19490.ts
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0yBgfmgJ/FILMANDARTS.jpg", Film & Arts
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81826.ts
 
-#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/8LGqYDjp/DISNEY.jpg", DISNEY PLUS
-https://disneyplus.ale24cba.workers.dev/
-
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", SHOWSPORT
 https://redirecionarshowsportcba.ale24cba.workers.dev/
 
