@@ -160,10 +160,10 @@ http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81856.ts
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/S4w6S364/Amc-logo-2013.jpg", AMC
 http://38.52.209.82:8000/play/a01y/index.m3u8
 
-#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dNPtLjq/ID.jpg", ID 
-http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/188.ts
+##EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dNPtLjq/ID.jpg", ID 
+#http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/188.ts
 
-#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dNPtLjq/ID.jpg", ID SD
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dNPtLjq/ID.jpg", ID
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81748.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Cpxhr7b0/Comedy-Central-2018.jpg", COMEDY CENTRAL
