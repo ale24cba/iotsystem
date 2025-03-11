@@ -60,7 +60,7 @@ https://dsr.ride.com.ar/tvmia/an60/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/an21/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/67R80xzh/espn24510.jpg", ESPN 2
-http://matrivagoweb.xyz:2095/live/61093343/123456/52748.ts
+https://dsr.ride.com.ar/tvmia/bn06/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/cKGr2x6c/download-1.jpg", ESPN 3
 https://dsr.ride.com.ar/tvmia/an26/playlist.m3u8
@@ -72,10 +72,10 @@ https://dsr.ride.com.ar/tvmia/an23/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/an24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/Nd3CQTDY/fox3.jpg", FOX 3
-http://190.123.90.146:8000/play/a00i/index.m3u8
+https://dsr.ride.com.ar/tvmia/an26/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/Gv50PGxG/large.jpg", GARAGE
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81738.ts
+https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/6JHrjmjn/2560px-2014-Disney-Channel-logo.jpg", DISNEY CHANNEL
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81729.ts
