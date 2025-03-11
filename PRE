@@ -164,7 +164,8 @@ http://38.52.209.82:8000/play/a01y/index.m3u8
 #http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/188.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dNPtLjq/ID.jpg", ID
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81748.ts
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1492398.ts
+#http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81748.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Cpxhr7b0/Comedy-Central-2018.jpg", COMEDY CENTRAL
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81768.ts
@@ -179,7 +180,8 @@ http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/260.ts
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/28621.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/ppx74qK/1200px-Discovery-Home-Health-logo.jpg", Discovery Home & Health 
-http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/187.ts
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1492414.ts
+#http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/187.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/5XLHNRY6/ENCUENTRO.jpg", ENCUENTRO
 https://dsr.ride.com.ar/tvmia/an13/playlist.m3u8
@@ -210,7 +212,7 @@ http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1595853.ts
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81675.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/G3V4MNqY/CNN.jpg", CNN
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165309.ts
+http://moontools.me:8080/majitoooootrex/Majit036r82ustD/23585
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/d4j9xMpm/TVE.jpg", TVE
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81678.ts
