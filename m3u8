@@ -65,7 +65,10 @@ https://dsr.ride.com.ar/tvmia/bn06/playlist.m3u8
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/cKGr2x6c/download-1.jpg", ESPN 3
 https://dsr.ride.com.ar/tvmia/an26/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/MDzRmW6J/FOX-Sports-logo-svg.jpg", FOX
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/cKGr2x6c/download-1.jpg", ESPN 4
+http://45.5.151.151:8000/play/a0qb/index.m3u8
+
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/8DvV6G86/ESPN-4.jpg", FOX
 https://dsr.ride.com.ar/tvmia/an23/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/JRP9j9Y2/fox2.jpg", FOX 2
