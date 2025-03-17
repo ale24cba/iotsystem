@@ -51,7 +51,7 @@ https://dsr.ride.com.ar/tvmia/an15/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/an14/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/WWNW2RZD/IP-NOTICIAS.png", IP NOTICIAS
-https://redireccionaripnoticias.ale24cba.workers.dev/
+https://dsr.ride.com.ar/tvmia/an54/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/5g2Rgpck/Ciudadmagazine-logonuevo.jpg", CIUDAD MAGAZINE
 https://dsr.ride.com.ar/tvmia/an12/playlist.m3u8
