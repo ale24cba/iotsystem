@@ -35,6 +35,9 @@ https://redirecionartn.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana13" tvg-logo="https://i.ibb.co/3ybDW1c4/a24-1.jpg",A24
 https://dsr.ride.com.ar/tvmia/an37/playlist.m3u8
 
+#EXTINF:-1 tvg-id="cana13" tvg-logo="https://i.ibb.co/3ybDW1c4/a24-1.jpg",A24
+https://dsr.ride.com.ar/tvmia/an37/playlist.m3u8
+
 #EXTINF:-1 tvg-id="cana14" tvg-logo="https://i.ibb.co/hFvtLYqL/c5n.png", C5N
 https://redireccionarc5n.ale24cba.workers.dev/
 
@@ -252,6 +255,8 @@ https://tntpremiun.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", SHOWSPORT
 https://redirecionarshowsportcba.ale24cba.workers.dev/
 
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", SHOWSPORT
+https://i.ibb.co/0KYysBk/showsport.png
 
 
 
