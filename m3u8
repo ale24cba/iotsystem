@@ -43,34 +43,42 @@ https://redireccionareldocecba.ale24cba.workers.dev/
 https://redireccionareldoceyout.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana10" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", EL TRECE
-https://direccionareltrece.ale24cba.workers.dev/
+http://190.123.90.146:8000/play/a00n/index.m3u8
+#https://direccionareltrece.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana11" tvg-logo="https://i.ibb.co/bjQNRCXx/Canal-9-2015.jpg", EL NUEVE
-https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
+http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/546.ts
+#https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana12" tvg-logo="https://i.ibb.co/qM0s1qDT/tn.jpg", TN
 https://redirecionartn.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana13" tvg-logo="https://i.ibb.co/3ybDW1c4/a24-1.jpg",A24
-https://dsr.ride.com.ar/tvmia/an37/playlist.m3u8
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1202079.ts
+#https://dsr.ride.com.ar/tvmia/an37/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana14" tvg-logo="https://i.ibb.co/hFvtLYqL/c5n.png", C5N
 https://redireccionarc5n.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana15" tvg-logo="https://i.ibb.co/LGZqgxB/CRONICA-TV.png", CRONICA TV
-https://dsr.ride.com.ar/tvmia/an10/playlist.m3u8
+http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/555.ts
+#https://dsr.ride.com.ar/tvmia/an10/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana16" tvg-logo="https://i.ibb.co/RkW5cMrW/canal-26.jpg", CANAL 26
-https://dsr.ride.com.ar/tvmia/an15/playlist.m3u8
+http://190.123.90.146:8000/play/a001/index.m3u8
+#https://dsr.ride.com.ar/tvmia/an15/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana17" tvg-logo="https://i.ibb.co/2Yp5ChV4/la-nacion.png", LN
-https://dsr.ride.com.ar/tvmia/an14/playlist.m3u8
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1115810.ts
+#https://dsr.ride.com.ar/tvmia/an14/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/WWNW2RZD/IP-NOTICIAS.png", IP NOTICIAS
-https://dsr.ride.com.ar/tvmia/an54/playlist.m3u8
+https://redireccionaripnoticias.ale24cba.workers.dev
+#https://dsr.ride.com.ar/tvmia/an54/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/5g2Rgpck/Ciudadmagazine-logonuevo.jpg", CIUDAD MAGAZINE
-https://dsr.ride.com.ar/tvmia/an12/playlist.m3u8
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
+3https://dsr.ride.com.ar/tvmia/an12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana20" tvg-logo="https://i.ibb.co/dwsrpSW4/tyc-sports9267.jpg", TYC SPORT
 https://dsr.ride.com.ar/tvmia/an60/playlist.m3u8
@@ -136,7 +144,8 @@ http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/320.ts
 http://181.176.153.107:8090/play/a0yk/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dsX8fsmv/volver.jpg", VOLVER
-https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165407.ts
+#https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/kV1Wzc4x/HBO-logo.jpg", HBO
 http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/325.ts
@@ -208,7 +217,8 @@ http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/28621.ts
 http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/187.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/5XLHNRY6/ENCUENTRO.jpg", ENCUENTRO
-https://dsr.ride.com.ar/tvmia/an13/playlist.m3u8
+http://moontools.me:8080/live/B.O.S.S_I.P/WycFeigyEn/14213.ts
+#https://dsr.ride.com.ar/tvmia/an13/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/3YGqX45y/national-geographic.jpg", National Geographic
