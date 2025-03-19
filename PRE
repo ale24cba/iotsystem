@@ -31,7 +31,7 @@ http://tvpremiund.ddns.me:2082/live/ROBERTOFIERRO/J5xYCry8aAWC/6989.m3u8
 https://redirecionartelefecba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", TELEFE BUENOS AIRES
-http://190.123.90.146:8000/play/a00p/index.m3u8
+http://170.239.188.252:8000/play/a039/index.m3u8
 #https://redireccionartelefeaires.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.imgur.com/XGrkzN3.png", TV PUBLICA
@@ -54,7 +54,7 @@ http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/546.ts
 #https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana12" tvg-logo="https://i.ibb.co/qM0s1qDT/tn.jpg", TN
-https://redirecionartn.ale24cba.workers.dev/
+http://190.123.90.146:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-id="cana13" tvg-logo="https://i.ibb.co/3ybDW1c4/a24-1.jpg",A24
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1202079.ts
