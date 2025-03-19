@@ -19,19 +19,23 @@ https://disneyplus.ale24cba.workers.dev/
 https://redirecionarcanal10cba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana3" tvg-logo="https://i.ibb.co/qMxgFWRR/Metro.jpg", METRO
-https://dsr.ride.com.ar/tvmia/an43/playlist.m3u8
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1492300.ts
+#https://dsr.ride.com.ar/tvmia/an43/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana4" tvg-logo="https://i.ibb.co/LdcV69jg/Am-rica-TV-Nuevo-logo-Junio-2020.jpg", AMERICA TV
-https://dsr.ride.com.ar/tvmia/an25/playlist.m3u8
+http://tvpremiund.ddns.me:2082/live/ROBERTOFIERRO/J5xYCry8aAWC/6989.m3u8
+#https://dsr.ride.com.ar/tvmia/an25/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana5" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", TELEFE CORDOBA
 https://redirecionartelefecba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", TELEFE BUENOS AIRES
-https://redireccionartelefeaires.ale24cba.workers.dev/
+http://190.123.90.146:8000/play/a00p/index.m3u8
+#https://redireccionartelefeaires.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.imgur.com/XGrkzN3.png", TV PUBLICA
-https://dsr.ride.com.ar/tvmia/an04/playlist.m3u8
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165400.ts
+#https://dsr.ride.com.ar/tvmia/an04/playlist.m3u8
 
 #EXTINF:-1 tvg-id="canal8" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", EL DOCE
 https://redireccionareldocecba.ale24cba.workers.dev/
