@@ -81,7 +81,8 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono
 3https://dsr.ride.com.ar/tvmia/an12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana20" tvg-logo="https://i.ibb.co/dwsrpSW4/tyc-sports9267.jpg", TYC SPORT
-https://dsr.ride.com.ar/tvmia/an60/playlist.m3u8
+http://matrivagoweb.xyz:2095/live/61093343peli/123456/52761.ts
+#https://dsr.ride.com.ar/tvmia/an60/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/4D6Y3Ck/i.jpg", ESPN
 https://dsr.ride.com.ar/tvmia/an21/playlist.m3u8
