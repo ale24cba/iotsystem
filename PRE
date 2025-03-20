@@ -4,14 +4,13 @@
 https://espnpremiun.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/twKGk2Bh/ESPN-Premium-red-and-black-2022.jpg", ESPN PREMIUN 2
-http://138.121.114.50:8000/play/a078/index.m3u8
-#https://dsr.ride.com.ar/tvmia/c07/chunks.m3u8
+https://espnpremiun2.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/20bc23JL/tnt-sports-premium4090-logowik-com.jpg", TNT PREMIUN 1
 https://tntpremiun.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/20bc23JL/tnt-sports-premium4090-logowik-com.jpg", TNT PREMIUN 2 
-https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
+https://tntpremiun.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/8LGqYDjp/DISNEY.jpg", DISNEY PLUS
 https://disneyplus.ale24cba.workers.dev/
@@ -24,8 +23,8 @@ http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1492300.ts
 #https://dsr.ride.com.ar/tvmia/an43/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana4" tvg-logo="https://i.ibb.co/LdcV69jg/Am-rica-TV-Nuevo-logo-Junio-2020.jpg", AMERICA TV
-http://tvpremiund.ddns.me:2082/live/ROBERTOFIERRO/J5xYCry8aAWC/6989.m3u8
-#https://dsr.ride.com.ar/tvmia/an25/playlist.m3u8
+#http://tvpremiund.ddns.me:2082/live/ROBERTOFIERRO/J5xYCry8aAWC/6989.m3u8
+https://dsr.ride.com.ar/tvmia/an25/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana5" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", TELEFE CORDOBA
 https://redirecionartelefecba.ale24cba.workers.dev/
