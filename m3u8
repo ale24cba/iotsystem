@@ -18,23 +18,19 @@ https://placas-premiun.ale24cba.workers.dev/
 https://redirecionarcanal10cba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana3" tvg-logo="https://i.ibb.co/qMxgFWRR/Metro.jpg", METRO
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1492300.ts
-#https://dsr.ride.com.ar/tvmia/an43/playlist.m3u8
+https://metro.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana4" tvg-logo="https://i.ibb.co/LdcV69jg/Am-rica-TV-Nuevo-logo-Junio-2020.jpg", AMERICA TV
-http://tvpremiund.ddns.me:2082/live/ROBERTOFIERRO/J5xYCry8aAWC/6989.m3u8
-#https://dsr.ride.com.ar/tvmia/an25/playlist.m3u8
+https://americatv.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana5" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", TELEFE CORDOBA
 https://redirecionartelefecba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", TELEFE BUENOS AIRES
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1160712.ts
-#https://redireccionartelefeaires.ale24cba.workers.dev/
+https://redireccionartelefeaires.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.imgur.com/XGrkzN3.png", TV PUBLICA
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165400.ts
-#https://dsr.ride.com.ar/tvmia/an04/playlist.m3u8
+https://tvpublica.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="canal8" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", EL DOCE
 https://redireccionareldocecba.ale24cba.workers.dev/
@@ -43,22 +39,19 @@ https://redireccionareldocecba.ale24cba.workers.dev/
 https://redireccionareldoceyout.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana10" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", EL TRECE
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#https://direccionareltrece.ale24cba.workers.dev/
+https://eltrece.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana11" tvg-logo="https://i.ibb.co/bjQNRCXx/Canal-9-2015.jpg", EL NUEVE
-http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/546.ts
-#https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
+https://canalnueve.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana12" tvg-logo="https://i.ibb.co/qM0s1qDT/tn.jpg", TN
-http://moontools.me:8080/live/B.O.S.S_I.P/WycFeigyEn/1116303.ts
+https://tn.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana13" tvg-logo="https://i.ibb.co/3ybDW1c4/a24-1.jpg",A24
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1202079.ts
-#https://dsr.ride.com.ar/tvmia/an37/playlist.m3u8
+https://a24.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana14" tvg-logo="https://i.ibb.co/hFvtLYqL/c5n.png", C5N
-https://redireccionarc5n.ale24cba.workers.dev/
+https://c5n.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana15" tvg-logo="https://i.ibb.co/LGZqgxB/CRONICA-TV.png", CRONICA TV
 http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/555.ts
@@ -77,12 +70,12 @@ https://redireccionaripnoticias.ale24cba.workers.dev
 #https://dsr.ride.com.ar/tvmia/an54/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/5g2Rgpck/Ciudadmagazine-logonuevo.jpg", CIUDAD MAGAZINE
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
-3https://dsr.ride.com.ar/tvmia/an12/playlist.m3u8
+#https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
+https://dsr.ride.com.ar/tvmia/an12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana20" tvg-logo="https://i.ibb.co/dwsrpSW4/tyc-sports9267.jpg", TYC SPORT
-http://matrivagoweb.xyz:2095/live/61093343peli/123456/52761.ts
-#https://dsr.ride.com.ar/tvmia/an60/playlist.m3u8
+#http://matrivagoweb.xyz:2095/live/61093343peli/123456/52761.ts
+https://dsr.ride.com.ar/tvmia/an60/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/4D6Y3Ck/i.jpg", ESPN
 https://dsr.ride.com.ar/tvmia/an21/playlist.m3u8
@@ -99,7 +92,8 @@ http://45.5.151.151:8000/play/a0qb/index.m3u8
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/Y7cW5hJW/espn5.jpg", ESPN 5
 http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/207358.ts
 
-#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/8DvV6G86/ESPN-4.jpg", FOX
+
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/MDzRmW6J/FOX-Sports-logo-svg.jpg", FOX
 https://dsr.ride.com.ar/tvmia/an23/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/JRP9j9Y2/fox2.jpg", FOX 2
@@ -153,7 +147,7 @@ http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/325.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/gZd1hXPM/CINECAL.jpg", CINECANAL
 #http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/23546.ts
-http://200.59.188.3:8000/play/a059
+http://200.59.188.3:8000/play/a059 
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/B2ZcJnrb/Logo-TNT-Series.jpg", TNT
 http://181.13.173.86:8000/play/a07d/index.m3u8
@@ -181,7 +175,8 @@ http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/235.ts
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1310676.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/RG3BQ1Pb/AXN.jpg", AXN
-http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/200.ts
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165291.ts
+#http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/200.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/ynvCqm9c/AE-logo.jpg", A&E
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1310658.ts
@@ -199,6 +194,7 @@ http://38.52.209.82:8000/play/a01y/index.m3u8
 #http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/188.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dNPtLjq/ID.jpg", ID
+#http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1492398.ts
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81748.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Cpxhr7b0/Comedy-Central-2018.jpg", COMEDY CENTRAL
@@ -269,7 +265,6 @@ http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81826.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", SHOWSPORT
 https://redirecionarshowsportcba.ale24cba.workers.dev/
-
 
 
 
