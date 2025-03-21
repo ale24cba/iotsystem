@@ -15,22 +15,27 @@ https://placas-premiun.ale24cba.workers.dev/
 https://placas-premiun.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/FHwr9jb/canal-10.jpg", CANAL 10
-https://redirecionarcanal10cba.ale24cba.workers.dev/
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1984077610_b2486272.m3u8
+#https://redirecionarcanal10cba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana3" tvg-logo="https://i.ibb.co/qMxgFWRR/Metro.jpg", METRO
-https://metro.ale24cba.workers.dev/
+https://dsr.ride.com.ar/tvmia/an43/playlist.m3u8
+#https://metro.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana4" tvg-logo="https://i.ibb.co/LdcV69jg/Am-rica-TV-Nuevo-logo-Junio-2020.jpg", AMERICA TV
-https://americatv.ale24cba.workers.dev/
+https://dsr.ride.com.ar/tvmia/an25/playlist.m3u8
+#https://americatv.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana5" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", TELEFE CORDOBA
 https://telefecba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", TELEFE BUENOS AIRES
-https://redireccionartelefeaires.ale24cba.workers.dev/
+https://dsr.ride.com.ar/tvmia/an11/playlist.m3u8
+#https://redireccionartelefeaires.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.imgur.com/XGrkzN3.png", TV PUBLICA
-https://tvpublica.ale24cba.workers.dev/
+https://dsr.ride.com.ar/tvmia/an04/playlist.m3u8
+#https://tvpublica.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="canal8" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", EL DOCE
 https://redireccionareldocecba.ale24cba.workers.dev/
@@ -39,34 +44,44 @@ https://redireccionareldocecba.ale24cba.workers.dev/
 https://redireccionareldoceyout.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana10" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", EL TRECE
-https://eltrece.ale24cba.workers.dev/
+https://dsr.ride.com.ar/tvmia/bn02/playlist.m3u8
+#https://eltrece.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana11" tvg-logo="https://i.ibb.co/bjQNRCXx/Canal-9-2015.jpg", EL NUEVE
-https://canalnueve.ale24cba.workers.dev/
+https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
+#https://canalnueve.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana12" tvg-logo="https://i.ibb.co/qM0s1qDT/tn.jpg", TN
-https://tn.ale24cba.workers.dev/
+https://dsr.ride.com.ar/tvmia/an07/playlist.m3u8
+#https://tn.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana13" tvg-logo="https://i.ibb.co/3ybDW1c4/a24-1.jpg",A24
-https://a24.ale24cba.workers.dev/
+https://dsr.ride.com.ar/tvmia/an37/playlist.m3u8
+#https://a24.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana14" tvg-logo="https://i.ibb.co/hFvtLYqL/c5n.png", C5N
-https://c5n.ale24cba.workers.dev/
+https://dsr.ride.com.ar/tvmia/an06/playlist.m3u8
+#https://c5n.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana15" tvg-logo="https://i.ibb.co/LGZqgxB/CRONICA-TV.png", CRONICA TV
-https://cronicatv.ale24cba.workers.dev/
+https://dsr.ride.com.ar/tvmia/an10/playlist.m3u8
+#https://cronicatv.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana16" tvg-logo="https://i.ibb.co/RkW5cMrW/canal-26.jpg", CANAL 26
-https://canal26.ale24cba.workers.dev/
+https://dsr.ride.com.ar/tvmia/an15/playlist.m3u8
+#https://canal26.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana17" tvg-logo="https://i.ibb.co/2Yp5ChV4/la-nacion.png", LN
-https://lanacion.ale24cba.workers.dev/
+https://dsr.ride.com.ar/tvmia/an14/playlist.m3u8
+#https://lanacion.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/WWNW2RZD/IP-NOTICIAS.png", IP NOTICIAS
-https://ipnoticias.ale24cba.workers.dev/
+https://dsr.ride.com.ar/tvmia/an54/playlist.m3u8
+#https://ipnoticias.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/5g2Rgpck/Ciudadmagazine-logonuevo.jpg", CIUDAD MAGAZINE
-https://ciudadmagazine.ale24cba.workers.dev/
+https://dsr.ride.com.ar/tvmia/an12/playlist.m3u8
+#https://ciudadmagazine.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana20" tvg-logo="https://i.ibb.co/dwsrpSW4/tyc-sports9267.jpg", TYC SPORT
 #http://matrivagoweb.xyz:2095/live/61093343peli/123456/52761.ts
@@ -260,10 +275,3 @@ http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81826.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", SHOWSPORT
 https://redirecionarshowsportcba.ale24cba.workers.dev/
-
-
-
-
-
-
-
