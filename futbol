@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/twKGk2Bh/ESPN-Premium-red-and-black-2022.jpg", ESPN PREMIUN 1
+https://espnpremiun.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/twKGk2Bh/ESPN-Premium-red-and-black-2022.jpg", ESPN PREMIUN 2
+https://espnpremiun2.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/20bc23JL/tnt-sports-premium4090-logowik-com.jpg", TNT PREMIUN 1
+https://tntpremiun.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/20bc23JL/tnt-sports-premium4090-logowik-com.jpg", TNT PREMIUN 2 
+https://tntpremiun.ale24cba.workers.dev/
+
+#EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/8LGqYDjp/DISNEY.jpg", DISNEY PLUS
+https://disneyplus.ale24cba.workers.dev/
