@@ -118,6 +118,9 @@ http://190.123.90.146:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/Gv50PGxG/large.jpg", GARAGE
 https://stream1.sersat.com/hls/garagetv.m3u8
 
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/1fQH1zJK/f1.jpg", F1
+http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/224702.ts
+
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/6JHrjmjn/2560px-2014-Disney-Channel-logo.jpg", DISNEY CHANNEL
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81729.ts
 
