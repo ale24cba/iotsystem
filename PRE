@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/twKGk2Bh/ESPN-Premium-red-and-black-2022.jpg", ESPN PREMIUN 1
-https://dsr.ride.com.ar/tvmia/c07/chunks.m3u8
+https://espnpremiun.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/twKGk2Bh/ESPN-Premium-red-and-black-2022.jpg", ESPN PREMIUN 2
 https://dsr.ride.com.ar/tvmia/c07/chunks.m3u8
