@@ -6,7 +6,6 @@ https://espnpremiun.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/twKGk2Bh/ESPN-Premium-red-and-black-2022.jpg", ESPN PREMIUN 2
 https://dsr.ride.com.ar/tvmia/c07/chunks.m3u8
 
-
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/20bc23JL/tnt-sports-premium4090-logowik-com.jpg", TNT PREMIUN 1
 https://tntpremiun.ale24cba.workers.dev/
 
@@ -122,19 +121,19 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/224702.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/6JHrjmjn/2560px-2014-Disney-Channel-logo.jpg", DISNEY CHANNEL
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81729.ts
+http://181.209.95.29:8000/play/a0ay/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/WNdtGn95/nick.jpg", NICK
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1114599.ts
+http://190.216.162.159:8001/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Mk9QqMrP/Cartoonito.jpg", CARTOONITO
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81890.ts
+http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/512.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/JjtJKTZn/BABY-TV.jpg", Baby TV
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81652.ts
+http://45.71.254.1:8000/play/a09o/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Ndfx6hhZ/discovery-kits.jpg", Discovery KIDS
-http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/167.ts
+http://45.71.254.1:8000/play/a0n4/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/HpHTLQLR/Disney-Junior-Logo-2020.jpg", DISNEY JUNIOR
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1492425.ts
