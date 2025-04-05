@@ -145,17 +145,16 @@ https://dsr.ride.com.ar/tvmia/an03/playlist.m3u8
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81725.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/FLqGtb2K/Space-Logo.jpg", SPACE
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165384.ts
+http://138.99.179.229:8000/play/a0j1/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/k2Gtt7b8/Cinemax.jpg", CINEMAX
-http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/320.ts
+https://flashtv.mx:443/live/liketv/dmtaxAvW7f/241766.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/35JwbmwL/Paramount-Network.jpg", PARAMOUNT NETWORK
 http://181.176.153.107:8090/play/a0yk/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dsX8fsmv/volver.jpg", VOLVER
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165407.ts
-#https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/kV1Wzc4x/HBO-logo.jpg", HBO
 http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/325.ts
@@ -171,27 +170,25 @@ http://181.13.173.86:8000/play/a07d/index.m3u8
 http://181.13.173.86:8000/play/a07e/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/8J0h96c/FX.jpg", FX
-http://179.49.163.34:45000/play/a00s/index.m3u8
-#http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/11304.ts
+http://181.209.95.29:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/7tY8P5DC/STAR.jpg", STAR CHANNEL
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81791.ts
+http://138.99.179.229:8000/play/a0il/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/r2rRtBGL/Sony-Channel-Logo.jpg", SONY CHANNEL
 http://179.49.163.34:45000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/4wY8VT8T/WARNER.jpg", WARNER CHANNEL
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165063.ts
+http://181.13.173.86:8000/play/a0as/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/VK5rRqG/Universal-TV-Logo-2018.jpg", UNIVERSAL TV 
 http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/235.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/spN9NFnn/STUDIO-UNIVERSAL.jpg", STUDIO UNIVERSAL
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1310676.ts
+http://160.20.165.246:8000/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/RG3BQ1Pb/AXN.jpg", AXN
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1165291.ts
-#http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/200.ts
+http://190.216.162.157:8001/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/ynvCqm9c/AE-logo.jpg", A&E
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1310658.ts
@@ -209,8 +206,7 @@ http://38.52.209.82:8000/play/a01y/index.m3u8
 #http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/188.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dNPtLjq/ID.jpg", ID
-#http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1492398.ts
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81748.ts
+http://45.71.254.1:8000/play/a0eh/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Cpxhr7b0/Comedy-Central-2018.jpg", COMEDY CENTRAL
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81768.ts
