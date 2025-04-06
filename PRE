@@ -191,7 +191,7 @@ http://160.20.165.246:8000/play/a01c/index.m3u8
 http://190.216.162.157:8001/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/ynvCqm9c/AE-logo.jpg", A&E
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1310658.ts
+http://138.99.179.229:8000/play/a0ir/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/h1tnxGK7/TNT-NOVELAS.jpg", TNT NOVELAS
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1492459.ts
