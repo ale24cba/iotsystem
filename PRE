@@ -269,10 +269,10 @@ http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/219.ts
 http://190.123.90.146:8000/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/bj533XgS/TELEMUNDO.jpg", TELEMUNDO INTERNACIONAL
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/19490.ts
+http://190.60.42.86:8000/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0yBgfmgJ/FILMANDARTS.jpg", Film & Arts
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81826.ts
+http://181.13.173.86:8000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0KYysBk/showsport.png", SHOWSPORT
 https://redirecionarshowsportcba.ale24cba.workers.dev/
