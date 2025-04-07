@@ -17,7 +17,6 @@ http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1595967.ts
 
 #EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/FHwr9jb/canal-10.jpg", CANAL 10
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1984077610_b2486272.m3u8
-#https://redirecionarcanal10cba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana3" tvg-logo="https://i.ibb.co/qMxgFWRR/Metro.jpg", METRO
 http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1595848.ts
@@ -29,7 +28,7 @@ http://matrivagoweb.xyz:2095/live/61093343/123456/51580.ts
 https://telefecba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", TELEFE BUENOS AIRES
-http://190.123.90.146:8000/play/a00p/index.m3u8
+http://moontools.me:8080/live/B.O.S.S_I.P/WycFeigyEn/1167998.ts
 
 #EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.imgur.com/XGrkzN3.png", TV PUBLICA
 http://matrivagoweb.xyz:2095/live/61093343peli/123456/51602.ts
@@ -41,7 +40,7 @@ https://redireccionareldocecba.ale24cba.workers.dev/
 https://redireccionareldoceyout.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana10" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", EL TRECE
-http://190.123.90.146:8000/play/a00n/index.m3u8
+http://moontools.me:8080/live/B.O.S.S_I.P/WycFeigyEn/109941.ts
 
 #EXTINF:-1 tvg-id="cana11" tvg-logo="https://i.ibb.co/bjQNRCXx/Canal-9-2015.jpg", EL NUEVE
 http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/22104.ts
@@ -59,8 +58,7 @@ http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1116290.ts
 http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1115808.ts
 
 #EXTINF:-1 tvg-id="cana16" tvg-logo="https://i.ibb.co/RkW5cMrW/canal-26.jpg", CANAL 26
-https://dsr.ride.com.ar/tvmia/an15/playlist.m3u8
-#https://canal26.ale24cba.workers.dev/
+http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/22104.ts
 
 #EXTINF:-1 tvg-id="cana17" tvg-logo="https://i.ibb.co/2Yp5ChV4/la-nacion.png", LN
 http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1115810.ts
@@ -73,7 +71,7 @@ https://dsr.ride.com.ar/tvmia/an54/playlist.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="cana20" tvg-logo="https://i.ibb.co/dwsrpSW4/tyc-sports9267.jpg", TYC SPORT
-http://179.1.146.21:8000/play/a08o/index.m3u8
+http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1116305.ts
 
 #EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/4D6Y3Ck/i.jpg", ESPN
 http://181.176.155.7:8090/play/a0rs/index.m3u8
@@ -140,7 +138,7 @@ https://flashtv.mx:443/live/liketv/dmtaxAvW7f/241766.ts
 http://181.176.153.107:8090/play/a0yk/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dsX8fsmv/volver.jpg", VOLVER
-https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
+http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1165407.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/kV1Wzc4x/HBO-logo.jpg", HBO
 http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/325.ts
@@ -210,7 +208,7 @@ http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/28621.ts
 http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/187.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/5XLHNRY6/ENCUENTRO.jpg", ENCUENTRO
-https://dsr.ride.com.ar/tvmia/an13/playlist.m3u8
+http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/14213.ts
 
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/3YGqX45y/national-geographic.jpg", National Geographic
