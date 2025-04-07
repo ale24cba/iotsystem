@@ -9,13 +9,11 @@ https://espnpremiun2.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/20bc23JL/tnt-sports-premium4090-logowik-com.jpg", TNT PREMIUN 1
 https://tntpremiun.ale24cba.workers.dev/
 
-
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/20bc23JL/tnt-sports-premium4090-logowik-com.jpg", TNT PREMIUN 2 
-https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
-
+http://181.13.173.86:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/8LGqYDjp/DISNEY.jpg", DISNEY PLUS
-https://disneyplus.ale24cba.workers.dev/
+http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1595967.ts
 
 #EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/FHwr9jb/canal-10.jpg", CANAL 10
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1984077610_b2486272.m3u8
@@ -34,8 +32,7 @@ https://telefecba.ale24cba.workers.dev/
 http://190.123.90.146:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.imgur.com/XGrkzN3.png", TV PUBLICA
-https://dsr.ride.com.ar/tvmia/an04/playlist.m3u8
-#https://tvpublica.ale24cba.workers.dev/
+http://matrivagoweb.xyz:2095/live/61093343peli/123456/51602.ts
 
 #EXTINF:-1 tvg-id="canal8" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", EL DOCE
 https://redireccionareldocecba.ale24cba.workers.dev/
