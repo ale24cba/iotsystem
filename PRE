@@ -31,7 +31,7 @@ http://matrivagoweb.xyz:2095/live/61093343/123456/51580.ts
 https://telefecba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", TELEFE BUENOS AIRES
-http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/22088.ts
+http://190.123.90.146:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.imgur.com/XGrkzN3.png", TV PUBLICA
 https://dsr.ride.com.ar/tvmia/an04/playlist.m3u8
