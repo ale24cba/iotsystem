@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/twKGk2Bh/ESPN-Premium-red-and-black-2022.jpg", ESPN PREMIUN 1
-http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1471339.ts
+https://espnpremiun.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/twKGk2Bh/ESPN-Premium-red-and-black-2022.jpg", ESPN PREMIUN 2
-http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1471339.ts
+https://espnpremiun2.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/20bc23JL/tnt-sports-premium4090-logowik-com.jpg", TNT PREMIUN 1
 https://tntpremiun.ale24cba.workers.dev/
@@ -22,19 +22,16 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1984077610_b2
 #https://redirecionarcanal10cba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana3" tvg-logo="https://i.ibb.co/qMxgFWRR/Metro.jpg", METRO
-https://dsr.ride.com.ar/tvmia/an43/playlist.m3u8
-#https://metro.ale24cba.workers.dev/
+http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1595848.ts
 
 #EXTINF:-1 tvg-id="cana4" tvg-logo="https://i.ibb.co/LdcV69jg/Am-rica-TV-Nuevo-logo-Junio-2020.jpg", AMERICA TV
-https://dsr.ride.com.ar/tvmia/an25/playlist.m3u8
-#https://americatv.ale24cba.workers.dev/
+http://matrivagoweb.xyz:2095/live/61093343/123456/51580.ts
 
 #EXTINF:-1 tvg-id="cana5" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", TELEFE CORDOBA
 https://telefecba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", TELEFE BUENOS AIRES
-https://dsr.ride.com.ar/tvmia/an11/playlist.m3u8
-#https://redireccionartelefeaires.ale24cba.workers.dev/
+http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/22088.ts
 
 #EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.imgur.com/XGrkzN3.png", TV PUBLICA
 https://dsr.ride.com.ar/tvmia/an04/playlist.m3u8
@@ -47,44 +44,36 @@ https://redireccionareldocecba.ale24cba.workers.dev/
 https://redireccionareldoceyout.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana10" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", EL TRECE
-https://dsr.ride.com.ar/tvmia/bn02/playlist.m3u8
-#https://eltrece.ale24cba.workers.dev/
+http://190.123.90.146:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="cana11" tvg-logo="https://i.ibb.co/bjQNRCXx/Canal-9-2015.jpg", EL NUEVE
-https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
-#https://canalnueve.ale24cba.workers.dev/
+http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/22104.ts
 
 #EXTINF:-1 tvg-id="cana12" tvg-logo="https://i.ibb.co/qM0s1qDT/tn.jpg", TN
-https://dsr.ride.com.ar/tvmia/an07/playlist.m3u8
-#https://tn.ale24cba.workers.dev/
+http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1595857.ts
 
 #EXTINF:-1 tvg-id="cana13" tvg-logo="https://i.ibb.co/3ybDW1c4/a24-1.jpg",A24
-https://dsr.ride.com.ar/tvmia/an37/playlist.m3u8
-#https://a24.ale24cba.workers.dev/
+http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/29505.ts
 
 #EXTINF:-1 tvg-id="cana14" tvg-logo="https://i.ibb.co/hFvtLYqL/c5n.png", C5N
-https://dsr.ride.com.ar/tvmia/an06/playlist.m3u8
-#https://c5n.ale24cba.workers.dev/
+http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1116290.ts
 
 #EXTINF:-1 tvg-id="cana15" tvg-logo="https://i.ibb.co/LGZqgxB/CRONICA-TV.png", CRONICA TV
-https://dsr.ride.com.ar/tvmia/an10/playlist.m3u8
-#https://cronicatv.ale24cba.workers.dev/
+http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1115808.ts
 
 #EXTINF:-1 tvg-id="cana16" tvg-logo="https://i.ibb.co/RkW5cMrW/canal-26.jpg", CANAL 26
 https://dsr.ride.com.ar/tvmia/an15/playlist.m3u8
 #https://canal26.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana17" tvg-logo="https://i.ibb.co/2Yp5ChV4/la-nacion.png", LN
-https://dsr.ride.com.ar/tvmia/an14/playlist.m3u8
-#https://lanacion.ale24cba.workers.dev/
+http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1115810.ts
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/WWNW2RZD/IP-NOTICIAS.png", IP NOTICIAS
 https://dsr.ride.com.ar/tvmia/an54/playlist.m3u8
 #https://ipnoticias.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/5g2Rgpck/Ciudadmagazine-logonuevo.jpg", CIUDAD MAGAZINE
-https://dsr.ride.com.ar/tvmia/an12/playlist.m3u8
-#https://ciudadmagazine.ale24cba.workers.dev/
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="cana20" tvg-logo="https://i.ibb.co/dwsrpSW4/tyc-sports9267.jpg", TYC SPORT
 https://tyc.ale24cba.workers.dev/
