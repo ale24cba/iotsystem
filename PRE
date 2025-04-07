@@ -40,7 +40,7 @@ https://redireccionareldocecba.ale24cba.workers.dev/
 https://redireccionareldoceyout.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana10" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", EL TRECE
-http://moontools.me:8080/live/B.O.S.S_I.P/WycFeigyEn/109941.ts
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="cana11" tvg-logo="https://i.ibb.co/bjQNRCXx/Canal-9-2015.jpg", EL NUEVE
 http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/22104.ts
