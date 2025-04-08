@@ -56,13 +56,13 @@ https://a24.ale24cba.workers.dev/
 https://c5n.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana15" tvg-logo="https://i.ibb.co/LGZqgxB/CRONICA-TV.png", CRONICA TV
-http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1115808.ts
+https://cronicatv.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana16" tvg-logo="https://i.ibb.co/RkW5cMrW/canal-26.jpg", CANAL 26
-http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/22104.ts
+https://canal26.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana17" tvg-logo="https://i.ibb.co/2Yp5ChV4/la-nacion.png", LN
-https://dsr.ride.com.ar/tvmia/an14/playlist.m3u8
+https://lanacion.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/WWNW2RZD/IP-NOTICIAS.png", IP NOTICIAS
 https://dsr.ride.com.ar/tvmia/an54/playlist.m3u8
