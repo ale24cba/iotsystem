@@ -13,7 +13,7 @@ https://tntpremiun.ale24cba.workers.dev/
 http://181.13.173.86:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/8LGqYDjp/DISNEY.jpg", DISNEY PLUS
-
+https://disneyplus.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/FHwr9jb/canal-10.jpg", CANAL 10
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1984077610_b2486272.m3u8
