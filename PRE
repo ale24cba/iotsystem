@@ -22,13 +22,13 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1984077610_b2
 http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1595848.ts
 
 #EXTINF:-1 tvg-id="cana4" tvg-logo="https://i.ibb.co/LdcV69jg/Am-rica-TV-Nuevo-logo-Junio-2020.jpg", AMERICA TV
-https://dsr.ride.com.ar/tvmia/an25/playlist.m3u8
+https://americatv.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana5" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", TELEFE CORDOBA
 https://telefecba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana6" tvg-logo="https://i.ibb.co/fd1bQfVy/telefe-2.jpg", TELEFE BUENOS AIRES
-https://dsr.ride.com.ar/tvmia/an11/playlist.m3u8
+https://telefebuenosaires.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.imgur.com/XGrkzN3.png", TV PUBLICA
 https://dsr.ride.com.ar/tvmia/an04/playlist.m3u8
