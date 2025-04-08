@@ -13,7 +13,7 @@ https://tntpremiun.ale24cba.workers.dev/
 http://181.13.173.86:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/8LGqYDjp/DISNEY.jpg", DISNEY PLUS
-http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1595967.ts
+
 
 #EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/FHwr9jb/canal-10.jpg", CANAL 10
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1984077610_b2486272.m3u8
@@ -91,7 +91,7 @@ http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/207358.ts
 
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/MDzRmW6J/FOX-Sports-logo-svg.jpg", FOX
-http://moontools.me:8080/live/B.O.S.S_I.P/WycFeigyEn/22098.ts
+https://foxsport.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/JRP9j9Y2/fox2.jpg", FOX 2
 https://flashtv.mx:443/live/liketv/dmtaxAvW7f/69142.ts
