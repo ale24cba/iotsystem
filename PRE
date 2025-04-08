@@ -31,7 +31,7 @@ https://telefecba.ale24cba.workers.dev/
 https://telefebuenosaires.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.imgur.com/XGrkzN3.png", TV PUBLICA
-https://dsr.ride.com.ar/tvmia/an04/playlist.m3u8
+https://tvpublica.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="canal8" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", EL DOCE
 https://redireccionareldocecba.ale24cba.workers.dev/
@@ -43,17 +43,17 @@ https://redireccionareldoceyout.ale24cba.workers.dev/
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="cana11" tvg-logo="https://i.ibb.co/bjQNRCXx/Canal-9-2015.jpg", EL NUEVE
-https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
+https://canalnueve.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana12" tvg-logo="https://i.ibb.co/qM0s1qDT/tn.jpg", TN
-https://dsr.ride.com.ar/tvmia/an07/playlist.m3u8
+https://tn.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana13" tvg-logo="https://i.ibb.co/3ybDW1c4/a24-1.jpg",A24
 https://dsr.ride.com.ar/tvmia/an37/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="cana14" tvg-logo="https://i.ibb.co/hFvtLYqL/c5n.png", C5N
-https://dsr.ride.com.ar/tvmia/an06/playlist.m3u8
+https://c5n.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana15" tvg-logo="https://i.ibb.co/LGZqgxB/CRONICA-TV.png", CRONICA TV
 http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1115808.ts
