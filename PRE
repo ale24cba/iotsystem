@@ -16,10 +16,10 @@ http://181.13.173.86:8000/play/a02u/index.m3u8
 https://disneyplus.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/FHwr9jb/canal-10.jpg", CANAL 10
-https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w1984077610_b2486272.m3u8
+https://redirecionarcanal10cba.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana3" tvg-logo="https://i.ibb.co/qMxgFWRR/Metro.jpg", METRO
-http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1595848.ts
+https://metro.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana4" tvg-logo="https://i.ibb.co/LdcV69jg/Am-rica-TV-Nuevo-logo-Junio-2020.jpg", AMERICA TV
 https://americatv.ale24cba.workers.dev/
@@ -69,10 +69,10 @@ https://dsr.ride.com.ar/tvmia/an54/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/5g2Rgpck/Ciudadmagazine-logonuevo.jpg", CIUDAD MAGAZINE
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
+https://ciudadmagazine.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana20" tvg-logo="https://i.ibb.co/dwsrpSW4/tyc-sports9267.jpg", TYC SPORT
-http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1116305.ts
+https://tyc.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/4D6Y3Ck/i.jpg", ESPN
 http://181.176.155.7:8090/play/a0rs/index.m3u8
@@ -231,7 +231,7 @@ http://181.119.86.68:8000/play/c019/index.m3u8
 http://181.209.95.29:8000/play/a0az/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Gvf9fYD8/Quiero.jpg", Quiero Musica
-http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1728126.ts
+https://quiero-musica.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dw6P6T10/mtv.jpgg", MTV
 http://xtreamui.ddns.net:8080/darksidevideoflix/H76REfL2eRth/350
