@@ -104,19 +104,19 @@ https://garage.ale24cba.workers.dev/
 https://f1.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/6JHrjmjn/2560px-2014-Disney-Channel-logo.jpg", DISNEY CHANNEL
-http://181.209.95.29:8000/play/a0ay/index.m3u8
+https://disneychannel.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/WNdtGn95/nick.jpg", NICK
-http://190.216.162.159:8001/play/a041/index.m3u8
+https://nick.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Mk9QqMrP/Cartoonito.jpg", CARTOONITO
-http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/512.ts
+https://cartoonito.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/JjtJKTZn/BABY-TV.jpg", Baby TV
-http://45.71.254.1:8000/play/a09o/index.m3u8
+https://babytv.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Ndfx6hhZ/discovery-kits.jpg", Discovery KIDS
-http://45.71.254.1:8000/play/a0n4/index.m3u8
+https://discoverykids.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/HpHTLQLR/Disney-Junior-Logo-2020.jpg", DISNEY JUNIOR
 https://disney-junior.ale24cba.workers.dev/
