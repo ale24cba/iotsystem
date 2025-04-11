@@ -123,13 +123,13 @@ http://45.71.254.1:8000/play/a0n4/index.m3u8
 https://disney-junior.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0pYTJtQz/Pakapaka-logotipo-2010-2016.jpg", PAKA PAKA
-https://dsr.ride.com.ar/tvmia/an03/playlist.m3u8
+https://pakapaka.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/C3bjF19n/Cartoon-Network-2010-logo.jpg", CARTOON NETWORK
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81725.ts
+https://cartoonnetwork.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/FLqGtb2K/Space-Logo.jpg", SPACE
-http://138.99.179.229:8000/play/a0j1/index.m3u8
+https://space.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/k2Gtt7b8/Cinemax.jpg", CINEMAX
 https://flashtv.mx:443/live/liketv/dmtaxAvW7f/241766.ts
@@ -138,7 +138,7 @@ https://flashtv.mx:443/live/liketv/dmtaxAvW7f/241766.ts
 http://181.176.153.107:8090/play/a0yk/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/dsX8fsmv/volver.jpg", VOLVER
-http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/1165407.ts
+https://volver.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/kV1Wzc4x/HBO-logo.jpg", HBO
 http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/325.ts
@@ -157,7 +157,7 @@ http://181.13.173.86:8000/play/a07e/index.m3u8
 http://181.209.95.29:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/7tY8P5DC/STAR.jpg", STAR CHANNEL
-http://138.99.179.229:8000/play/a0il/index.m3u8
+https://starchannel.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/r2rRtBGL/Sony-Channel-Logo.jpg", SONY CHANNEL
 http://179.49.163.34:45000/play/a020/index.m3u8
@@ -172,16 +172,16 @@ http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/235.ts
 http://160.20.165.246:8000/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/RG3BQ1Pb/AXN.jpg", AXN
-http://190.216.162.157:8001/play/a06t/index.m3u8
+https://axn.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/ynvCqm9c/AE-logo.jpg", A&E
 http://138.99.179.229:8000/play/a0ir/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/h1tnxGK7/TNT-NOVELAS.jpg", TNT NOVELAS
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1492459.ts
+https://tnt-novelas.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/9mbYccBP/1200px-TCM-Latam-logo.jpg", TCM
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81856.ts
+https://tcm.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/S4w6S364/Amc-logo-2013.jpg", AMC
 http://38.52.209.82:8000/play/a01y/index.m3u8
@@ -193,22 +193,22 @@ http://38.52.209.82:8000/play/a01y/index.m3u8
 http://45.71.254.1:8000/play/a0eh/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/Cpxhr7b0/Comedy-Central-2018.jpg", COMEDY CENTRAL
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/81768.ts
+https://comedi-central.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/qFPZVq1h/CINE-LATINO.jpg", CINE LATINO 
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/18914.ts
+https://cinelatino.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/C52gJbJb/Elgourmetlogo2015.jpg", EL GOURMET
 http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/260.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/nMdVZnwg/Tru-TV-logo-2014.jpg", TruTV
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/28621.ts
+https://trutv.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/ppx74qK/1200px-Discovery-Home-Health-logo.jpg", Discovery Home & Health 
 http://xtreamui.ddns.net:8000/live/darksidevideoflix/H76REfL2eRth/187.ts
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/5XLHNRY6/ENCUENTRO.jpg", ENCUENTRO
-http://my-flashtv.com:8080/live/YeLLowHS2uKePhYN/e6NJU9he3dM5/14213.ts
+https://encuentro.ale24cba.workers.dev/
 
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/3YGqX45y/national-geographic.jpg", National Geographic
