@@ -10,7 +10,7 @@ https://espnpremiun2.ale24cba.workers.dev/
 https://tntpremiun.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/20bc23JL/tnt-sports-premium4090-logowik-com.jpg", TNT PREMIUN 2 
-http://181.13.173.86:8000/play/a02u/index.m3u8
+https://tntpremiun2.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/8LGqYDjp/DISNEY.jpg", DISNEY PLUS
 https://disneyplus.ale24cba.workers.dev/
@@ -65,8 +65,7 @@ https://canal26.ale24cba.workers.dev/
 https://lanacion.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/WWNW2RZD/IP-NOTICIAS.png", IP NOTICIAS
-https://dsr.ride.com.ar/tvmia/an54/playlist.m3u8
-
+https://ipnoticias.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/5g2Rgpck/Ciudadmagazine-logonuevo.jpg", CIUDAD MAGAZINE
 https://ciudadmagazine.ale24cba.workers.dev/
@@ -121,7 +120,7 @@ http://45.71.254.1:8000/play/a09o/index.m3u8
 http://45.71.254.1:8000/play/a0n4/index.m3u8
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/HpHTLQLR/Disney-Junior-Logo-2020.jpg", DISNEY JUNIOR
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1492425.ts
+https://disney-junior.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/0pYTJtQz/Pakapaka-logotipo-2010-2016.jpg", PAKA PAKA
 https://dsr.ride.com.ar/tvmia/an03/playlist.m3u8
