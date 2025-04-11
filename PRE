@@ -33,10 +33,10 @@ https://telefebuenosaires.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana7" tvg-logo="https://i.imgur.com/XGrkzN3.png", TV PUBLICA
 https://tvpublica.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="canal8" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", EL DOCE
+#EXTINF:-1 tvg-id="canal8" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", EL DOCE 1
 https://redireccionareldocecba.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="cana9" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", EL DOCE YOUTUBE 
+#EXTINF:-1 tvg-id="cana9" tvg-logo="https://i.ibb.co/6Fynzt1/eldoce.png", EL DOCE 2
 https://redireccionareldoceyout.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana10" tvg-logo="https://i.ibb.co/H0yG9x0/Isotipo-eltrece-2016-1.jpg", EL TRECE
@@ -74,35 +74,34 @@ https://ciudadmagazine.ale24cba.workers.dev/
 https://tyc.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana2" tvg-logo="https://i.ibb.co/4D6Y3Ck/i.jpg", ESPN
-http://181.176.155.7:8090/play/a0rs/index.m3u8
+https://espn.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/67R80xzh/espn24510.jpg", ESPN 2
-https://flashtv.mx:443/live/liketv/dmtaxAvW7f/69127.ts
+https://espn2.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/cKGr2x6c/download-1.jpg", ESPN 3
-http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/9627.ts
+https://espn3.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/3y6HBVhB/ESPN-4.jpg", ESPN 4
-https://flashtv.mx:443/live/liketv/dmtaxAvW7f/69129.ts
+https://espn4.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/Y7cW5hJW/espn5.jpg", ESPN 5
-http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/207358.ts
-
+https://espn5.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/MDzRmW6J/FOX-Sports-logo-svg.jpg", FOX
 https://foxsport.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/JRP9j9Y2/fox2.jpg", FOX 2
-https://flashtv.mx:443/live/liketv/dmtaxAvW7f/69142.ts
+https://fox2.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/Nd3CQTDY/fox3.jpg", FOX 3
-http://190.123.90.146:8000/play/a00i/index.m3u8
+https://fox3.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/Gv50PGxG/large.jpg", GARAGE
-https://stream1.sersat.com/hls/garagetv.m3u8
+https://garage.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/1fQH1zJK/f1.jpg", F1
-http://masterprotv1.com:8080/live/vcdcoontato123/vcdcoontato123/224702.ts
+https://f1.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/6JHrjmjn/2560px-2014-Disney-Channel-logo.jpg", DISNEY CHANNEL
 http://181.209.95.29:8000/play/a0ay/index.m3u8
