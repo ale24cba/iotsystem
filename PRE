@@ -15,11 +15,11 @@ https://tntpremiun2.ale24cba.workers.dev/
 #EXTINF:-1 tvg-id="cana19" tvg-logo="https://i.ibb.co/8LGqYDjp/DISNEY.jpg", DISNEY PLUS
 https://disneyplus.ale24cba.workers.dev/
 
+#EXTINF:-1 tvg-id="cana18" tvg-logo="https://i.ibb.co/1fQH1zJK/f1.jpg", F1
+https://f1.ale24cba.workers.dev/
+
 #EXTINF:-1 tvg-id="cana4" tvg-logo="https://i.ibb.co/LdcV69jg/Am-rica-TV-Nuevo-logo-Junio-2020.jpg", AMERICA TV
 https://americatv.ale24cba.workers.dev/
-
-#EXTINF:-1 tvg-id="cana3" tvg-logo="https://i.ibb.co/qMxgFWRR/Metro.jpg", METRO
-https://metro.ale24cba.workers.dev/
 
 #EXTINF:-1 tvg-id="cana5" tvg-logo="https://i.ibb.co/N6d1Cw8/telefe.jpg", TELEFE CORDOBA
 https://telefecba.ale24cba.workers.dev/
